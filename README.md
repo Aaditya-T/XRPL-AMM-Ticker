@@ -1,5 +1,7 @@
 # XRPL-AMM-Ticker
 
+Powered by: [XRPscan api](https://xrpscan.com/)
+
 ## Steps to setup
 
 > Make sure you have python and pip installed!
